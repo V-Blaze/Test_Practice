@@ -1,0 +1,24 @@
+{
+  "name": "test_practice",
+  "version": "1.0.0",
+  "description": "Writing unit tests for a JavaScript app. Using AAA pattern for unit tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V-Blaze/Test_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V-Blaze/Test_Practice/issues"
+  },
+  "homepage": "https://github.com/V-Blaze/Test_Practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
