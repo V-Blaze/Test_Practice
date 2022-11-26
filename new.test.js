@@ -5,6 +5,7 @@ const  {stringLength, reverseString, Calculator, captalize}  = require('./index.
 test('Valentine to be length of 9', () =>  
     expect(stringLength('Valentine')).toBe(9)
 )
+//test comment
 
 test('ValentineBlaze to throw an error', () =>  
     expect(stringLength('ValentineBlaze')).toBe('String must be less than 10 and greater than 1')
